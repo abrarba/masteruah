@@ -17,3 +17,7 @@ Opción 2
 -->
 
 <img alt="Clonación_Repositorio" src="assets/CloneRepository.PNG">
+
+3) Añadir al README.md los comanddos utilizados hasta ahora y hacer un coomit inicial con el mensaje commit inicial
+
+* git clone https://github.com/abrarba/....
