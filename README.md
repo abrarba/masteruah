@@ -26,4 +26,13 @@ Opción 2
 * git diff --staged
 * git remote
 * git remote show origin
-* git pull
+* git push origin master
+* touch 1.txt
+* touch .gitignore
+# privad*
+# /privado
+* git tag v0.1
+* git add 1.txt
+* git add README.md
+* git commit -v
+* git push origin master
