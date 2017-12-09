@@ -29,10 +29,11 @@ Opción 2
 * git push origin master
 * touch 1.txt
 * touch .gitignore
-# privad*
-# /privado
+patron --> privad*
+patron --> /privado
 * git tag v0.1
 * git add 1.txt
 * git add README.md
 * git commit -v
 * git push origin master
+* doble factor de autentificación
