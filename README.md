@@ -21,3 +21,9 @@ Opción 2
 3) Añadir al README.md los comanddos utilizados hasta ahora y hacer un coomit inicial con el mensaje commit inicial
 
 * git clone https://github.com/abrarba/....
+* git status
+* git add README.md
+* git diff --staged
+* git remote
+* git remote show origin
+* git pull
